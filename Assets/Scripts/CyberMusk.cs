@@ -7,20 +7,7 @@ public class CyberMusk : MonoBehaviour
     private float MIN_DISTANCE = 3f;
 
     private NavMeshAgent _agent;
-    private Transform _myBody;
     private Transform _target;
-
-    private Transform MyBody
-    {
-        get
-        {
-            if (_myBody == null)
-            {
-                _myBody = GetComponent<Transform>();
-            }
-            return _myBody;
-        }
-    }
 
     private Transform Target
     {
