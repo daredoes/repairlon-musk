@@ -258,6 +258,14 @@ ModelImporter:
     100504: Box245
     100506: Box246
     100508: Box247
+    100510: Box248
+    100512: Box249
+    100514: Box250
+    100516: Box251
+    100518: Box252
+    100520: Box253
+    100522: Sphere002
+    100524: Sphere003
     400000: Cylinder001
     400002: Sphere001
     400004: //RootNode
@@ -513,6 +521,14 @@ ModelImporter:
     400504: Box245
     400506: Box246
     400508: Box247
+    400510: Box248
+    400512: Box249
+    400514: Box250
+    400516: Box251
+    400518: Box252
+    400520: Box253
+    400522: Sphere002
+    400524: Sphere003
     2100000: 'Material #30'
     2100002: 'Material #28'
     2100004: 'Material #29'
@@ -525,6 +541,8 @@ ModelImporter:
     2100018: 'Material #40'
     2100020: 'Material #52'
     2100022: 'Material #70'
+    2100024: 'Material #83'
+    2100026: 'Material #84'
     2300000: Cylinder001
     2300002: Sphere001
     2300004: Cylinder002
@@ -780,6 +798,14 @@ ModelImporter:
     2300504: Box245
     2300506: Box246
     2300508: Box247
+    2300510: Box248
+    2300512: Box249
+    2300514: Box250
+    2300516: Box251
+    2300518: Box252
+    2300520: Box253
+    2300522: Sphere002
+    2300524: Sphere003
     3300000: Cylinder001
     3300002: Sphere001
     3300004: Cylinder002
@@ -1035,6 +1061,14 @@ ModelImporter:
     3300504: Box245
     3300506: Box246
     3300508: Box247
+    3300510: Box248
+    3300512: Box249
+    3300514: Box250
+    3300516: Box251
+    3300518: Box252
+    3300520: Box253
+    3300522: Sphere002
+    3300524: Sphere003
     4300000: Sphere001
     4300002: Cylinder001
     4300004: Cylinder002
@@ -1289,6 +1323,14 @@ ModelImporter:
     4300502: Box245
     4300504: Box246
     4300506: Box247
+    4300508: Box248
+    4300510: Box249
+    4300512: Box250
+    4300514: Box251
+    4300516: Sphere002
+    4300518: Box252
+    4300520: Box253
+    4300522: Sphere003
   externalObjects: {}
   materials:
     importMaterials: 1
