@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StarshipScene.unity
+    guid: 95e5a79f85d9c7e4fbea0a62e8c970bc
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 8f23e9aa47d4a8f4691bf04b13587605
   m_configObjects: {}
