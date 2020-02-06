@@ -17,16 +17,5 @@ public class HandButtonTrigger : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         other.GetComponent<HandButton>().Press();
-        
-        //if (!hit)
-        //{
-
-        //}
-        //    if (other.name == "Land On Mars Button")
-        //{
-        //    hit = true;
-        //    Debug.Log("COLLIDING WITH R CUBE!!!");
-        //    SceneManager.LoadSceneAsync("WinScreen");
-        //}
     }
 }
